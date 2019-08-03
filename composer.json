@@ -1,16 +1,16 @@
 {   
     
-    "name": "adi/php-amateur-mvc",
+    "name": "rootoor225/mvc-framework-php",
     "description": "Amateur complete framework website developped in PHP using MVC design Pattern",
     "keywords": ["site", "website", "PHP MVC framework"],
-    "homepage": "http://github.com/Adi/php2mvc",
+    "homepage": "http://github.com/rootoor225",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
             "name": "Junior Adi",
             "email": "adi.junior.da98@gmail.com",
-            "homepage": "http://adi-dev-studio.ci"
+            "homepage": "https://github.com/rootoor225"
         }
     ],
     "require": {

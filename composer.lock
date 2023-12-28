@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "aec3a430f8e28b6ace0838cd2cefe590",
+    "content-hash": "b5a4146864244c89333879e5b09393ce",
     "packages": [
         {
             "name": "altorouter/altorouter",
@@ -63,16 +63,16 @@
         },
         {
             "name": "ckeditor/ckeditor",
-            "version": "4.11.4",
+            "version": "4.17.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/ckeditor/ckeditor-releases.git",
-                "reference": "b42e90185ed50054d3f4bd1b60446f21256ef1b1"
+                "url": "https://github.com/ckeditor/ckeditor4-releases.git",
+                "reference": "1690c8f35eec3c939fc0f941436d6fbd85d2ea2e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ckeditor/ckeditor-releases/zipball/b42e90185ed50054d3f4bd1b60446f21256ef1b1",
-                "reference": "b42e90185ed50054d3f4bd1b60446f21256ef1b1",
+                "url": "https://api.github.com/repos/ckeditor/ckeditor4-releases/zipball/1690c8f35eec3c939fc0f941436d6fbd85d2ea2e",
+                "reference": "1690c8f35eec3c939fc0f941436d6fbd85d2ea2e",
                 "shasum": ""
             },
             "type": "library",
@@ -85,13 +85,14 @@
             "authors": [
                 {
                     "name": "CKSource",
-                    "homepage": "http://cksource.com"
+                    "homepage": "https://cksource.com"
                 }
             ],
             "description": "JavaScript WYSIWYG web text editor.",
-            "homepage": "http://ckeditor.com",
+            "homepage": "https://ckeditor.com/ckeditor-4/",
             "keywords": [
                 "CKEditor",
+                "ckeditor4",
                 "editor",
                 "fckeditor",
                 "html",
@@ -100,7 +101,13 @@
                 "text",
                 "wysiwyg"
             ],
-            "time": "2019-04-09T14:01:57+00:00"
+            "support": {
+                "forum": "https://stackoverflow.com/tags/ckeditor",
+                "issues": "https://github.com/ckeditor/ckeditor4/issues",
+                "source": "https://github.com/ckeditor/ckeditor4",
+                "wiki": "https://ckeditor.com/docs/ckeditor4/latest/"
+            },
+            "time": "2021-11-17T10:54:44+00:00"
         },
         {
             "name": "container-interop/container-interop",
@@ -963,5 +970,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
 }

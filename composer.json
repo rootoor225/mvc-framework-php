@@ -19,7 +19,7 @@
         "filp/whoops": "2.4.1",
         "symfony/var-dumper": "4.3.2",
         "altorouter/altorouter": "1.2.0",
-        "ckeditor/ckeditor": "4.11.4",
+        "ckeditor/ckeditor": "4.17.0",
         "vlucas/valitron": "2.x-dev",
         "zendframework/zend-authentication": "^2.7",
         "zendframework/zend-validator": "^2.12",
